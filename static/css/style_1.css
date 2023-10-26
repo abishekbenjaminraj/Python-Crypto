@@ -1,0 +1,42 @@
+.bit select{
+    position: absolute;
+    height: 50px;
+    width: 100px ;
+    top: 20%;
+    left: 30%;
+    background-color: black;
+    color: white;
+}
+.get{
+    position: absolute;
+    height: 50px;
+    width: 100px;
+    padding: 7px 15px;
+    top: 20%;
+    left: 50%;
+    background-color: black;
+    color: white;
+}
+.succ{
+    position: absolute;
+    color: bisque;
+    top: 61%;
+    left: 1%;
+}
+.tar{
+    position: absolute;
+    color: bisque;
+    top: 71%;
+    left: 1%;
+}
+.val{
+    position: absolute;
+    color: bisque;
+    top: 81%;
+    left: 1%;
+}
+img{
+    position: relative;
+    height: 717px;
+    width: 100%;
+}

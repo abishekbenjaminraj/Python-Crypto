@@ -1,0 +1,75 @@
+video{
+    height: 720px;
+    width: 100%;
+    object-fit: fill;
+    position: relative;
+}
+
+h2{
+    position: absolute;
+    top: 3%;
+    color: white;
+    left: 3%;
+    background-color: black;
+    border-radius: 5px;
+    padding: 15px 15px;
+    font-style: oblique;
+}
+
+.home{
+    top: 5%;
+    right: 60%;
+    position: absolute;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 15px 15px;
+}
+
+nav a{
+    text-decoration-line: none;
+    color: black;
+    font-size: 25px;
+
+}
+
+.exchange{
+    top: 5%;
+    right:46%;
+    position: absolute;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 15px 15px;
+}
+
+.contact{
+    top: 5%;
+    right: 30%;
+    position: absolute;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 15px 15px;
+}
+
+.about{
+    top: 5%;
+    right: 15%;
+    position: absolute;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 15px 15px;
+}
+
+.bit{
+    position: absolute;
+    top: 87%;
+    right: 46%;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 15px 15px;
+    border-radius: 5px;
+}
